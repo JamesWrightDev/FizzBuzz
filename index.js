@@ -1,6 +1,6 @@
 const count = 100;
 
-for(let i = 0; i <= count; i++) {
+for(let i = 1; i <= count; i++) {
     let message = "";
 
     if (i % 3 == 0) {
